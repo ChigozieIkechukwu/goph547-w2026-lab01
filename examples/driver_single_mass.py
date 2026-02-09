@@ -1,4 +1,4 @@
-﻿import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 import sys
 import os
@@ -116,4 +116,3 @@ if __name__ == "__main__":
     create_contour_plots(25.0)
 
     print("Done!")
-
